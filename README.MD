@@ -1,5 +1,5 @@
 <h3><center>Tp Web Service SOAP WSDL UDDI </center></h3> <br>
-<img src="captures/1.jpg">
+<img src="captures/1.png">
 </hr>
 
 <img src="captures/2.jpg">
